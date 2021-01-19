@@ -1,0 +1,16 @@
+{
+    "name": "sudeera/pdf-generator",
+    "description": "generate pdf using puppeteer",
+    "type": "library",
+    "require": {
+        "spatie/browsershot": "dev-master"
+    },
+    "license": "GNU General Public",
+    "authors": [
+        {
+            "name": "Sudeera Abeywickrema",
+            "email": "sudeerax@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev"
+}
