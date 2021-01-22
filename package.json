@@ -1,0 +1,22 @@
+{
+  "name": "pdf-generator",
+  "version": "1.0.0",
+  "description": "create pdf using puppeteer",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sudeerax/pdf-generator.git"
+  },
+  "author": "Sudeera Abeywickrema",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sudeerax/pdf-generator/issues"
+  },
+  "homepage": "https://github.com/sudeerax/pdf-generator#readme",
+  "dependencies": {
+    "puppeteer": "^5.5.0"
+  }
+}
