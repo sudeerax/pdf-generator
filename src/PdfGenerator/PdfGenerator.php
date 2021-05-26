@@ -13,7 +13,7 @@ use Spatie\Browsershot\Browsershot;
 class PdfGenerator
 {
 
-    public function getPdf($request)
+    public static function getPdf($request)
     {
         if($request->savedMapLink)
         {
